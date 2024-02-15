@@ -18,7 +18,9 @@
 </p>
 <p align="center">
   <h2 align="center">Mobile:</h2>
-  <img alt="preview do projeto, Figma" src=".github/Mobile.png" width="20%">
+  <div align="center">
+    <img alt="preview do projeto, Figma" src=".github/Mobile.png" width="20%">
+  </div>
 </p>
 
 ## 🚀 Tecnologias
